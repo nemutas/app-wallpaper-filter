@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/app-wallpaper-filter/static/css/main.9be8411c.chunk.css",
-    "main.js": "/app-wallpaper-filter/static/js/main.d7ce374b.chunk.js",
-    "main.js.map": "/app-wallpaper-filter/static/js/main.d7ce374b.chunk.js.map",
+    "main.js": "/app-wallpaper-filter/static/js/main.484a04f5.chunk.js",
+    "main.js.map": "/app-wallpaper-filter/static/js/main.484a04f5.chunk.js.map",
     "runtime-main.js": "/app-wallpaper-filter/static/js/runtime-main.bead9e18.js",
     "runtime-main.js.map": "/app-wallpaper-filter/static/js/runtime-main.bead9e18.js.map",
     "static/css/2.0cdc7206.chunk.css": "/app-wallpaper-filter/static/css/2.0cdc7206.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.0cdc7206.chunk.css",
     "static/js/2.dc675e95.chunk.js",
     "static/css/main.9be8411c.chunk.css",
-    "static/js/main.d7ce374b.chunk.js"
+    "static/js/main.484a04f5.chunk.js"
   ]
 }
