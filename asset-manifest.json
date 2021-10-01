@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/app-wallpaper-filter/static/css/main.9be8411c.chunk.css",
+    "main.js": "/app-wallpaper-filter/static/js/main.d7ce374b.chunk.js",
+    "main.js.map": "/app-wallpaper-filter/static/js/main.d7ce374b.chunk.js.map",
+    "runtime-main.js": "/app-wallpaper-filter/static/js/runtime-main.bead9e18.js",
+    "runtime-main.js.map": "/app-wallpaper-filter/static/js/runtime-main.bead9e18.js.map",
+    "static/css/2.0cdc7206.chunk.css": "/app-wallpaper-filter/static/css/2.0cdc7206.chunk.css",
+    "static/js/2.dc675e95.chunk.js": "/app-wallpaper-filter/static/js/2.dc675e95.chunk.js",
+    "static/js/2.dc675e95.chunk.js.map": "/app-wallpaper-filter/static/js/2.dc675e95.chunk.js.map",
+    "static/js/3.1a9d0fcc.chunk.js": "/app-wallpaper-filter/static/js/3.1a9d0fcc.chunk.js",
+    "static/js/3.1a9d0fcc.chunk.js.map": "/app-wallpaper-filter/static/js/3.1a9d0fcc.chunk.js.map",
+    "index.html": "/app-wallpaper-filter/index.html",
+    "service-worker.js": "/app-wallpaper-filter/service-worker.js",
+    "service-worker.js.map": "/app-wallpaper-filter/service-worker.js.map",
+    "static/css/2.0cdc7206.chunk.css.map": "/app-wallpaper-filter/static/css/2.0cdc7206.chunk.css.map",
+    "static/css/main.9be8411c.chunk.css.map": "/app-wallpaper-filter/static/css/main.9be8411c.chunk.css.map",
+    "static/js/2.dc675e95.chunk.js.LICENSE.txt": "/app-wallpaper-filter/static/js/2.dc675e95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bead9e18.js",
+    "static/css/2.0cdc7206.chunk.css",
+    "static/js/2.dc675e95.chunk.js",
+    "static/css/main.9be8411c.chunk.css",
+    "static/js/main.d7ce374b.chunk.js"
+  ]
+}
