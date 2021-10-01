@@ -21,6 +21,10 @@ export const NavigationController: VFC = () => {
 	const [active, setActive] = useState(true)
 	const updateRef = useRef(true)
 
+	const borderRadiusMax = activeFilter
+		? Math.floor(Math.min(activeFilter.width, activeFilter.height) / 2)
+		: 100
+
 	useEffect(() => {
 		const resizeHandler = () => setWindowSize([window.innerWidth, window.innerHeight])
 		window.addEventListener('resize', resizeHandler)
@@ -135,9 +139,9 @@ export const NavigationController: VFC = () => {
 					<div className={styles.inputContainer}>
 						<CustomSlider
 							label="Corner Roundness"
-							unit="%"
+							unit="px"
 							currentValue={activeFilter ? activeFilter.borderRadius : 0}
-							range={[0, 50]}
+							range={[0, borderRadiusMax]}
 							setFilterProps={borderRadiusChangeHandler}
 							disabled={!activeFilter}
 						/>

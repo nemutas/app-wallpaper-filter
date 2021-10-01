@@ -127,7 +127,7 @@ const styles = {
 		height: ${props.height}px;
 		background-color: rgba(${props.color.r}, ${props.color.g}, ${props.color.b}, ${props.color.a});
 		backdrop-filter: blur(${props.blur}px);
-		border-radius: ${props.borderRadius}%;
+		border-radius: ${props.borderRadius}px;
 		z-index: ${props.zIndex};
 	`,
 	helper: (props: FilterProps) => css`
