@@ -31,6 +31,12 @@ The Filter panel can also be moved using the Drag operation, and resized using t
 Save the file as a screenshot of your PC.<br>
 It is recommended to do this after making the application full screen to eliminate differences from when it is actually used as wallpaper.
 
+### ！！！ Filter Guider ！！！
+Filterにホバーすると、枠線が表示されます。<br>
+もし、ホバーを外しても枠線が残る場合は、Filterをダブルクリックすることで表示を戻すことができます。<br>
+When you hover over Filter, a border will appear.<br>
+If the border remains after removing the hover, you can double-click on the Filter to bring it back into view.
+
 # Technology
 * React
 * TypeScript
