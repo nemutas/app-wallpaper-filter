@@ -162,9 +162,14 @@ export const NavigationController: VFC = () => {
 
 					{/* link button */}
 					<div className={styles.linkButtonContainer}>
-						<IconButton aria-label="git hub" color="default" size="large">
-							<GitHubIcon sx={{ width: 40, height: 40 }} />
-						</IconButton>
+						<a
+							href="https://github.com/nemutas/app-wallpaper-filter"
+							target="_blank"
+							rel="noreferrer">
+							<IconButton aria-label="git hub" color="default" size="large">
+								<GitHubIcon sx={{ width: 40, height: 40 }} />
+							</IconButton>
+						</a>
 					</div>
 				</div>
 			</div>
